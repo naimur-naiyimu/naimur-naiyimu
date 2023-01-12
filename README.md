@@ -17,12 +17,6 @@
 <a href="https://www.leetcode.com/naimur_naiyimu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naimur_naiyimu" height="30" width="40" /></a>
 </p>
 
-
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/naimur-naiyimu/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
 <br/>
 <br/>
 
