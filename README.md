@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning **Algoritham**
 
-- 💬 Ask me about **OOP, Pyhton, C, C++, Machine Learning **
+- 💬 Ask me about <b> OOP, Pyhton, C, C++, Machine Learning </b>
 
-- 📫 How to reach me **naimur.naiyimu@gmail.com**
+- 📫 How to reach me naimur.naiyimu@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naimur-naiyimu&show_icons=true&locale=en&layout=compact" alt="naimur-naiyimu" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimur-naiyimu&show_icons=true&locale=en" alt="naimur-naiyimu" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naimur-naiyimu&show_icons=true&locale=en" alt="naimur-naiyimu" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-naiyimu&" alt="naimur-naiyimu" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-naiyimu&" alt="naimur-naiyimu" /></p> -->
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/naimur_naiyimu?ext=contest)
