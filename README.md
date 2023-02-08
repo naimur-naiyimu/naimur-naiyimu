@@ -26,4 +26,5 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naimur-naiyimu&" alt="naimur-naiyimu" /></p> -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/naimur_naiyimu?ext=contest)
+<!-- ![Leetcode Stats](https://leetcard.jacoblin.cool/naimur_naiyimu?ext=contest)
+ -->
