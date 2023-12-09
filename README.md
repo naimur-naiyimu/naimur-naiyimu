@@ -2,7 +2,7 @@
 
 <h3 >I'm a Learner, Problem Solver</h3>
 
-- 🌱 I’m currently learning **Algoritham**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about <b> OOP, Pyhton, C, C++, Machine Learning </b>
 
